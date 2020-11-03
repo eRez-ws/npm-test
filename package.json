@@ -7,7 +7,9 @@
     "ajv-keywords": "^2.1.1",
     "chalk": "^2.4.2",
     "escape-string-regexp": "^2.0.0",
-    "q": "^1.5.0",
+    "q": "^1.5.0"
+  },
+  "devDependencies": {
     "regexpu-core": "^4.6.0"
   },
   "scripts": {
