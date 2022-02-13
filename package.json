@@ -3,7 +3,7 @@
   "version": "1.0.2",
   "main": "index.js",
   "dependencies": {
-    "ajv": "^5.0.0",
+    "ajv": "^6.12.3",
     "ajv-keywords": "^2.1.1",
     "chalk": "^2.4.2"
   },
